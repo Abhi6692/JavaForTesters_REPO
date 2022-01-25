@@ -1,4 +1,4 @@
-package conditionalStatemetsAndLoops;
+package conditionalStatemets_6;
 
 public class ConditionalStatement {
 

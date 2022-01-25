@@ -1,0 +1,1 @@
+Refer to getter and setter class examples
